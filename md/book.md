@@ -1779,7 +1779,8 @@ Foster, Hal. 'What’s Neo about the Neo-Avant-Garde?', *October*, Vol. 70
 (Autumn, 1994): 5-32.
 
 Fraser, Andrea. 'Le 1% c’est moi', 2011.
-http://whitney.org/file\_columns/0002/9848/andreafraser\_1\_2012whitneybiennial.pdf
+http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf
+
 
 Marchart, Oliver. 'Art, Space and the Public Sphere(s)', 2002,
 http://eipcp.net/transversal/0102/marchart/en
