@@ -1765,25 +1765,25 @@ power.
 
 Adorno, Theodor. 'Commitment', *New Left Review* I (87088)
 (September-December, 1974).
-http://newleftreview.org/I/87-88/theodor-adorno-commitment
+<http://newleftreview.org/I/87-88/theodor-adorno-commitment>
 
 Emmelhainz, Irmgard. 'Art and the Cultural Turn: Farewell to Committed
 Autonomous Art?', *e-flux journal* 42 (February, 2013).
-http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art/
+<http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art/>
 
 Espósito, Marcelo. 'Lecciones de historia. El arte, entre la
 experimentación institucional y las políticas del movimiento', 2009.
-SITAC lecture, http://marceloexposito.net/pdf/exposito\_sitac.pdf
+SITAC lecture, <http://marceloexposito.net/pdf/exposito\_sitac.pdf>
 
 Foster, Hal. 'What’s Neo about the Neo-Avant-Garde?', *October*, Vol. 70
 (Autumn, 1994): 5-32.
 
 Fraser, Andrea. 'Le 1% c’est moi', 2011.
-http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf
+<http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf>
 
 
 Marchart, Oliver. 'Art, Space and the Public Sphere(s)', 2002,
-http://eipcp.net/transversal/0102/marchart/en
+<http://eipcp.net/transversal/0102/marchart/en>
 
 McLagan, Megan and McKee, Yates (eds) *Sensible Politics:* *The Visual
 Culture of Nongovernmental Activism*. Cambridge, Mass., Zone Books,
@@ -1791,11 +1791,11 @@ Culture of Nongovernmental Activism*. Cambridge, Mass., Zone Books,
 
 Shaviro, Stephen. 'Accelerationist Aesthetics', *e-flux journal* \#46
 (Summer, 2013). Dostupno na internet stranici:
-http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption/
+<http://www.e-flux.com/journal/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption/>
 
 Sholette, Gregory. 'Welcome to the Desert of the Real Artworld', *Oxford
 Art Journal* 27 (2) (2004) pp. 260-261.
-http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf
+<http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf>
 
 Stakemeier, Kerstin and Vishmidt, Marina. 'The Value of Autonomy: A
 Conversation Between Kerstin Stakemeier and Marina Vishmidt About the
@@ -1803,11 +1803,11 @@ Reproduction of Art', *Texte zur Kunst* 88 (December, 2012): 102–117.
 
 Thompson, Nato. 2013, 'The Insurgents Part I: Community-Based Practice
 as Military Methodology,' *e-flux journal* \# 47 (September, 2013),
-http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology/
+<http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology/>
 
 Vishmidt, Marina. 'Mimesis of the Hardened and Alienated: Social
 Practice as a Business Model', *e-flux journal* \# 46 (March, 2013),
-http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model/
+<http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model/>
 
 Wu, Chin-tao. 'Embracing the Enterprise Culture: Art Institutions Since
 the 1980s', *New Left Review* I 230 (July-August, 1998)
@@ -1840,14 +1840,14 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
     Sicne the 1980s', *New Left Review* I/ 230, (July-August 1998): 31.
 
 [^Test-chapter_10]: See artist’s statement available at:
-    http://www.taniabruguera.com/cms/486-0-Immigrant+Movement+International.htm.
+    <http://www.taniabruguera.com/cms/486-0-Immigrant>+Movement+International.htm.
 
 [^Test-chapter_11]: Oliver Marchart, 'Art, Space and the Public Sphere(s)' (2002),
     [http://eipcp.net/transversal/0102/marchart/en](styles.xml)
 
 [^Test-chapter_12]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
     *Oxford Art Journal* 27.2 (2004): 260-261, :
-    http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf
+    <http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf>
 
 [^Test-chapter_13]: Nato Thompson, 'The Insurgents Part I: Community-Based Practice
     as Military Methodology,' *e-flux journal* \# 47, (September 2013),
@@ -1855,16 +1855,16 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
     online:[http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology/](stylesWithEffects.xml).
     In the second part of his essay, Thompson includes a disclaimer
     about him glossing over U.S. military violence in Iraq. See:
-    http://www.e-flux.com/journal/the-insurgents-part-ii-fighting-the-left-by-being-the-left/
+    <http://www.e-flux.com/journal/the-insurgents-part-ii-fighting-the-left-by-being-the-left/>
 
 [^Test-chapter_14]: Thompson, 2013.
 
 [^Test-chapter_15]: See Irmgard Emmelhainz, 'Art and the Cultural Turn: Farewell to
     Committed Autonomous Art?' *e-flux journal* N. 42 (February 2013),
-    http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art/
+    <http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art/>
 
 [^Test-chapter_16]: Artist’s statement available online:
-    http://pedroreyes.net/palasporpistolas.php.
+    <http://pedroreyes.net/palasporpistolas.php.>
 
 [^Test-chapter_17]: See: Megan McLagan and Yates McKee (eds), 'Introduction,'
     *Sensible Politics: The Visual Culture of Nongovernmental Activism*,
@@ -1872,7 +1872,7 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
 
 [^Test-chapter_18]: Marcelo Espósito, 'Lecciones de historia. El arte, entre la
     experimentación institucional y las políticas del movimiento', SITAC
-    2009. http://marceloexposito.net/pdf/exposito\_sitac.pdf
+    2009. <http://marceloexposito.net/pdf/exposito\_sitac.pdf>
 
 [^Test-chapter_19]: Stephen Shaviro, 'Accelerationist Aesthetics,' *e-flux journal*
     \#46 (Summer 2013).
@@ -1889,7 +1889,7 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
 
 [^Test-chapter_21]: Theodor Adorno, 'Comittment,' *New Left Review* I/87088
     (September-December 1974),
-    http://newleftreview.org/I/87-88/theodor-adorno-commitment
+    <http://newleftreview.org/I/87-88/theodor-adorno-commitment>
 
 [^Test-chapter_22]: Ibid.
 

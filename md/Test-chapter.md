@@ -453,7 +453,7 @@ Autonomous Art?', *e-flux journal* 42 (February, 2013).
 
 Espósito, Marcelo. 'Lecciones de historia. El arte, entre la
 experimentación institucional y las políticas del movimiento', 2009.
-SITAC lecture, <http://marceloexposito.net/pdf/exposito\_sitac.pdf>
+SITAC lecture, <http://marceloexposito.net/pdf/exposito_sitac.pdf>
 
 Foster, Hal. 'What’s Neo about the Neo-Avant-Garde?', *October*, Vol. 70
 (Autumn, 1994): 5-32.
@@ -475,7 +475,7 @@ Shaviro, Stephen. 'Accelerationist Aesthetics', *e-flux journal* \#46
 
 Sholette, Gregory. 'Welcome to the Desert of the Real Artworld', *Oxford
 Art Journal* 27 (2) (2004) pp. 260-261.
-<http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf>
+<http://www.gregorysholette.com/wp-content/uploads/2011/04/07_welcome1.pdf>
 
 Stakemeier, Kerstin and Vishmidt, Marina. 'The Value of Autonomy: A
 Conversation Between Kerstin Stakemeier and Marina Vishmidt About the
@@ -512,7 +512,7 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
 
 [^Test-chapter_7]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
     *Oxford Art Journal* 27.2, (2004), p. 259.
-    http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf
+    <http://www.gregorysholette.com/wp-content/uploads/2011/04/07_welcome1.pdf>
 
 [^Test-chapter_8]: Ibid., pp. 260-261.
 
@@ -527,7 +527,7 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
 
 [^Test-chapter_12]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
     *Oxford Art Journal* 27.2 (2004): 260-261, :
-    <http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf>
+    <http://www.gregorysholette.com/wp-content/uploads/2011/04/07_welcome1.pdf>
 
 [^Test-chapter_13]: Nato Thompson, 'The Insurgents Part I: Community-Based Practice
     as Military Methodology,' *e-flux journal* \# 47, (September 2013),
@@ -552,7 +552,7 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
 
 [^Test-chapter_18]: Marcelo Espósito, 'Lecciones de historia. El arte, entre la
     experimentación institucional y las políticas del movimiento', SITAC
-    2009. <http://marceloexposito.net/pdf/exposito\_sitac.pdf>
+    2009. <http://marceloexposito.net/pdf/exposito_sitac.pdf>
 
 [^Test-chapter_19]: Stephen Shaviro, 'Accelerationist Aesthetics,' *e-flux journal*
     \#46 (Summer 2013).
@@ -587,4 +587,4 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
     espèce, ou à la fin de l'ère des guerriers -notre époque n'est plus
     celle des guerriers, elle est celle des insectes, des animaux
     insignifiants, plus capables de
-    s'adapter...<a href="http://whitney.org/file\_columns/0002/9848/andreafraser\_1\_2012whitneybiennial.pdf">http://whitney.org/file\_columns/0002/9848/andreafraser\_1\_2012whitneybiennial.pdf</a>
+    s'adapter...<http://whitney.org/file_columns/0002/9848/andreafraser_1_2012whitneybiennial.pdf>
